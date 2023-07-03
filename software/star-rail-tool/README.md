@@ -38,9 +38,21 @@ Trace.WriteLine(NullCraftSoftwareList.Items.Conut());
 
 #### 如果你想看软件详细介绍
 
+{% content-ref url="introduction.md" %}
+[introduction.md](introduction.md)
+{% endcontent-ref %}
+
 #### 如果你需要获取使用教学
 
+{% content-ref url="tutorial.md" %}
+[tutorial.md](tutorial.md)
+{% endcontent-ref %}
+
 #### 如果你想知道最近更新了什么
+
+{% content-ref url="update.md" %}
+[update.md](update.md)
+{% endcontent-ref %}
 
 ### 版权声明
 
