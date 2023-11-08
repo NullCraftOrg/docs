@@ -10,6 +10,12 @@ description: The Key of Teyvat Update
 
 ## 更新记录
 
+### v1.4.2.1108 (2023-11-08)
+
+<mark style="color:red;">**`[修复]`**</mark>
+
+* 原神 4.2 版本更新后不能获取Authkey(祈愿记录)问题
+
 ### v1.4.1.1116 (2022-11-16)
 
 <mark style="color:blue;">**`[更新]`**</mark>
