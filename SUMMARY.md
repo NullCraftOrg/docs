@@ -32,6 +32,9 @@
 
 ## 软件 <a href="#software" id="software"></a>
 
+* [局域网探测](software/lantest/README.md)
+  * [使用教学](software/lantest/tutorial.md)
+  * [更新日志](software/lantest/update.md)
 * [我的世界基岩开服器](software/minecraft-bedrock-server/README.md)
   * [使用教学](software/minecraft-bedrock-server/tutorial.md)
   * [更新日志](software/minecraft-bedrock-server/update.md)
