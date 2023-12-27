@@ -74,9 +74,9 @@
 
 ## 插件 <a href="#plugin" id="plugin"></a>
 
-* [NcRules \[我的世界插件\]](plugin/ncrules.md)
-* [酷Q插件系列集合](plugin/page-4.md)
-* [Fileinfo \[VSCode\]](plugin/vscode-fileinfo/README.md)
+* [NcRules - Minecraft](plugin/ncrules.md)
+* [酷Q插件集合 - CoolQ](plugin/page-4.md)
+* [Fileinfo - VSCode](plugin/vscode-fileinfo/README.md)
   * [更新日志](plugin/vscode-fileinfo/update.md)
 
 ## 其它资源 <a href="#resource" id="resource"></a>
