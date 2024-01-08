@@ -1,10 +1,12 @@
 ---
-description: Star Rail Tool
+description: The key of Star Rail
 ---
 
-# 星穹铁道工具
+# 星穹之匙
 
-## 星穹铁道工具
+{% hint style="info" %}
+此工具已正式命名为：**星穹之匙** / **The key of Star Rail**
+{% endhint %}
 
 {% hint style="success" %}
 此工具已正式发布。
@@ -13,7 +15,7 @@ description: Star Rail Tool
 {% code title="Star_Rail_Tool.sln" %}
 ```csharp
 Software software = new Software();
-software.Name = "星穹铁道工具";
+software.Name = "星穹之匙";
 software.ProjectID = "Star Rail Tool";
 software.Release = "https://nullcraft.org/d/71";
 software.ReleaseDate = DateTime.Parse("2023,4,26").ToString();
@@ -30,9 +32,9 @@ Trace.WriteLine(NullCraftSoftwareList.Items.Conut());
 ```
 {% endcode %}
 
-### 关于《星穹铁道工具》
+### 关于《星穹之匙》
 
-#### 下载《星穹铁道工具》
+#### 下载《星穹之匙》
 
 {% embed url="https://nullcraft.org/d/71" %}
 
