@@ -50,3 +50,7 @@ Console.WriteLine(NullCraftSoftwareList.Items.Conut());
 {% content-ref url="update.md" %}
 [update.md](update.md)
 {% endcontent-ref %}
+
+### 软件图片
+
+<figure><img src="../../.gitbook/assets/n2n_1.png" alt=""><figcaption><p>网上邻居 - 组网设置</p></figcaption></figure>

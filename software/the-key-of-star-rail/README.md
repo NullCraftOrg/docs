@@ -71,3 +71,13 @@ Trace.WriteLine(NullCraftSoftwareList.Items.Conut());
 {% hint style="warning" %}
 一但使用本程序的任意功能，则默认同意并自行承担未知风险，所造成的损失开发者与发布方不承担任何责任。
 {% endhint %}
+
+### 软件图片
+
+<figure><img src="../../.gitbook/assets/star-rail_1.png" alt=""><figcaption><p>星穹之匙 - 主页</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/star-rail_2.png" alt=""><figcaption><p>星穹之匙 - 服务器切换</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/star-rail_3.png" alt=""><figcaption><p>星穹之匙 - 进阶启动</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/star-rail_4.png" alt=""><figcaption><p>星穹之匙 - 进阶启动 (详细列表)</p></figcaption></figure>

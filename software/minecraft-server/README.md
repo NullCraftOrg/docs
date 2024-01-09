@@ -54,6 +54,24 @@ Console.WriteLine(NullCraftSoftwareList.Items.Conut());
 [faq.md](faq.md)
 {% endcontent-ref %}
 
+### 软件图片
+
+<figure><img src="../../.gitbook/assets/minecraft-server-lite_1.png" alt=""><figcaption><p>我的世界开服器 - 主页</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/minecraft-server-lite_2.png" alt=""><figcaption><p>我的世界开服器 - 控制面板</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/minecraft-server-lite_3.png" alt=""><figcaption><p>我的世界开服器 - 配置文件</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/minecraft-server-lite_4_1.png" alt=""><figcaption><p>我的世界开服器 - 文件管理 (插件)</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/minecraft-server-lite_5.png" alt=""><figcaption><p>我的世界开服器 - 计划任务</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/minecraft-server-lite_6.png" alt=""><figcaption><p>我的世界开服器 - 工具箱</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/minecraft-server-lite_7.png" alt=""><figcaption><p>我的世界开服器 - 本体设置</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/minecraft-server-lite_8.png" alt=""><figcaption><p>我的世界开服器 - 资源广场</p></figcaption></figure>
+
 ## 版权声明
 
 本工具版权归属开发者：快辰，由灵工艺发布，其他人不得使用本软件用于商业用途或声称这是你开发的软件。

@@ -9,3 +9,9 @@ description: Function Key Notice
 {% endhint %}
 
 {% embed url="https://nullcraft.org/d/15" %}
+
+### 软件图片
+
+<figure><img src="../../.gitbook/assets/function-key-notice_1.png" alt=""><figcaption><p>功能键通知 - 主页</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/function-key-notice_2.png" alt=""><figcaption><p>功能键通知 - 通知样式 (Windows10 通知)</p></figcaption></figure>

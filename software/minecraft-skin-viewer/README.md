@@ -14,3 +14,10 @@ description: Minecraft Skin Viewer
 
 
 
+
+
+### 软件图片
+
+<figure><img src="../../.gitbook/assets/minecraft_skin_viewer_1.png" alt=""><figcaption><p>我的世界皮肤查看器 - 主界面</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/minecraft_skin_viewer_2.png" alt=""><figcaption><p>我的世界皮肤查看器 - 获取带玩家皮肤的头颅物品</p></figcaption></figure>

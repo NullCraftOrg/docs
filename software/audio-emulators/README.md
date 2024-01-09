@@ -9,3 +9,7 @@ description: Audio Emulators
 {% endhint %}
 
 {% embed url="https://nullcraft.org/d/25" %}
+
+### 软件图片
+
+<figure><img src="../../.gitbook/assets/audio-emulators_1.png" alt=""><figcaption><p>音频模拟器 - 软件主页</p></figcaption></figure>

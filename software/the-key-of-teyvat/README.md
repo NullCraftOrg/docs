@@ -61,3 +61,13 @@ Console.WriteLine(NullCraftSoftwareList.Items.Conut());
 {% hint style="warning" %}
 一但使用本程序的任意功能，则默认同意并自行承担未知风险，所造成的损失开发者与发布方不承担任何责任。
 {% endhint %}
+
+### 软件图片
+
+<figure><img src="../../.gitbook/assets/the-key-of-teyvat_1.png" alt=""><figcaption><p>提瓦特之匙 - 实时便签</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/the-key-of-teyvat_2.png" alt=""><figcaption><p>提瓦特之匙 - 登录服务器切换</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/the-key-of-teyvat_3.png" alt=""><figcaption><p>提瓦特之匙 - AuthKey 获取</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/the-key-of-teyvat_4.png" alt=""><figcaption><p>提瓦特之匙 - 进阶启动</p></figcaption></figure>

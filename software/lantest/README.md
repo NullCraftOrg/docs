@@ -50,3 +50,9 @@ Trace.WriteLine(NullCraftSoftwareList.Items.Conut());
 {% content-ref url="update.md" %}
 [update.md](update.md)
 {% endcontent-ref %}
+
+### 软件图片
+
+<figure><img src="../../.gitbook/assets/lantest_1.png" alt=""><figcaption><p>局域网探测 - 主界面 (简略模式)</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/lantest_3.png" alt=""><figcaption><p>局域网探测 - 主界面 (详细模式)</p></figcaption></figure>

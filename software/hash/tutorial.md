@@ -10,7 +10,7 @@ description: Tutorial
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/hash_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tutorial_hash_1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -18,6 +18,6 @@ description: Tutorial
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/hash_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/hash_1.png" alt=""><figcaption></figcaption></figure>
 
 </div>

@@ -43,3 +43,15 @@ Trace.WriteLine(NullCraftSoftwareList.Items.Conut());
 {% content-ref url="update.md" %}
 [update.md](update.md)
 {% endcontent-ref %}
+
+### 软件图片
+
+<figure><img src="../../.gitbook/assets/minecraft-bedrock-server_1.png" alt=""><figcaption><p>我的世界基岩开服器 - 主页</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/minecraft-bedrock-server_2.png" alt=""><figcaption><p>我的世界基岩开服器 - 控制台</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/minecraft-bedrock-server_3.png" alt=""><figcaption><p>我的世界基岩开服器 - 玩家列表</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/minecraft-bedrock-server_4.png" alt=""><figcaption><p>我的世界基岩开服器 - 服务端配置</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/minecraft-bedrock-server_5.png" alt=""><figcaption><p>我的世界基岩开服器 - 文件管理</p></figcaption></figure>

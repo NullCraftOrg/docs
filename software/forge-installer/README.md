@@ -9,3 +9,9 @@ description: Minecraft Forge Installer
 {% endhint %}
 
 {% embed url="https://nullcraft.org/d/19" %}
+
+### 软件图片
+
+<figure><img src="../../.gitbook/assets/forge-installer_1.png" alt=""><figcaption><p>我的世界Forge安装器 - 主页</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/forge-installer_2.png" alt=""><figcaption><p>我的世界Forge安装器 - 安装页</p></figcaption></figure>
