@@ -1,7 +1,6 @@
 # Table of contents
 
 * [🌟 开始](README.md)
-  * [已发布项目汇总](readme/release.md)
   * [文档状态标记说明](readme/status.md)
   * [项目生命周期](readme/life-cycle.md)
   * [版本号格式](readme/version-number.md)
