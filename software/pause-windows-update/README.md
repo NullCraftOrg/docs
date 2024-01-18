@@ -4,6 +4,8 @@ description: Pause Windows Update
 
 # 视窗系统更新暂停工具
 
+> 适用于 视窗10与视窗11 以及 坐和放宽 (注：视窗=Windows 非官译)
+
 {% hint style="success" %}
 此工具已开源发布。
 {% endhint %}
