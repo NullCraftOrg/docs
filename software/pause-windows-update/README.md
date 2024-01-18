@@ -47,6 +47,18 @@ Trace.WriteLine(NullCraftSoftwareList.Items.Conut());
 [tutorial.md](tutorial.md)
 {% endcontent-ref %}
 
+### 软件图片
+
+<figure><img src="../../.gitbook/assets/pause-windows-update_1.png" alt=""><figcaption><p>软件主界面</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/pause-windows-update_2.png" alt=""><figcaption><p>启用暂停成功通知</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/pause-windows-update_3.png" alt=""><figcaption><p>确认暂停一致</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/pause-windows-update_4.png" alt=""><figcaption><p>取消暂停</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/pause-windows-update_5.png" alt=""><figcaption><p>不影响其它软件/服务</p></figcaption></figure>
+
 ## 此软件开源协议声明
 
 本工具已开放源代码，并托管至 Github ，使用 [GNU General Public License v3.0](https://github.com/FastChen/Pause-Windows-Update?tab=GPL-3.0-1-ov-file#readme) 许可，对于源码的使用，请遵守协议许可的范围内使用。
