@@ -71,6 +71,7 @@
 * [我的世界开服器](software/minecraft-server/README.md)
   * [常见问题](software/minecraft-server/faq.md)
   * [自定义功能](software/minecraft-server/custom-features.md)
+  * [异常报错](software/minecraft-server/error.md)
   * [更新日志](software/minecraft-server/update.md)
 
 ## 插件 <a href="#plugin" id="plugin"></a>
