@@ -31,6 +31,8 @@
 
 ## 软件 <a href="#software" id="software"></a>
 
+* [视窗系统更新暂停工具](software/pause-windows-update/README.md)
+  * [使用教学](software/pause-windows-update/tutorial.md)
 * [局域网探测](software/lantest/README.md)
   * [使用教学](software/lantest/tutorial.md)
   * [更新日志](software/lantest/update.md)
