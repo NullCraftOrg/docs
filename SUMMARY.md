@@ -5,7 +5,7 @@
   * [项目生命周期](readme/life-cycle.md)
   * [版本号格式](readme/version-number.md)
   * [了解如何正确的反馈问题](readme/how-to-feedback-issues.md)
-* [🗃 捐助支持](donate/README.md)
+* [🗃️ 捐助支持](donate/README.md)
   * [🐰 2023年捐助列表](donate/2023.md)
   * [🐯 2022年捐助列表](donate/2022.md)
   * [🐮 2021年捐助列表](donate/2021.md)
@@ -23,7 +23,7 @@
 ## 独立教程 <a href="#tutorial" id="tutorial"></a>
 
 * [😇 我的世界Java版开服教程](tutorial/minecraft-server.md)
-* [🛏 我的世界基岩版开服教程](tutorial/minecraft-bedrock-server.md)
+* [🛏️ 我的世界基岩版开服教程](tutorial/minecraft-bedrock-server.md)
 * [📌 轻量标记语言语法](tutorial/syntax/README.md)
   * [MarkDown 语法](tutorial/syntax/markdown.md)
   * [BBCode 语法](tutorial/syntax/bbcode.md)
