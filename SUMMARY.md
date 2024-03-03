@@ -2,7 +2,7 @@
 
 ## 🫵 AD
 
-* [流量卡好卡](http://kajia.vip/h5/index?shop\_id=MTE2Njk=)
+* [免费领取流量好卡](http://kajia.vip/h5/index?shop\_id=MTE2Njk=)
 
 ***
 
