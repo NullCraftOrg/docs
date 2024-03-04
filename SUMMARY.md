@@ -1,12 +1,14 @@
 # Table of contents
 
+* [🌟 欢迎](README.md)
+
 ## 🫵 AD
 
 * [免费领取流量好卡](http://kajia.vip/h5/index?shop\_id=MTE2Njk=)
 
 ***
 
-* [🌟 开始](README.md)
+* [📂 开始](<README (1).md>)
   * [文档状态标记说明](readme/status.md)
   * [项目生命周期](readme/life-cycle.md)
   * [版本号格式](readme/version-number.md)
