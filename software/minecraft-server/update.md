@@ -10,6 +10,18 @@ description: Minecraft Server Update
 
 ## 更新记录
 
+### \[BETA] 0.1.2.302 (2024-03-04)
+
+<mark style="color:orange;">**`[优化]`**</mark>
+
+* 将 `server.properties` 文件编码读取/写出改为 UTF-8 编码
+
+### \[BETA] 0.1.1.614 (2023-06-14)
+
+<mark style="color:orange;">**`[优化]`**</mark>
+
+* 优化了一些代码
+
 ### \[BETA] 0.1.0.604 (2023-06-04)
 
 <mark style="color:purple;">**`[重置发布]`**</mark>
