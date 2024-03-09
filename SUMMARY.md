@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🌟 欢迎](README.md)
+* [🌟 探索](README.md)
 
 ## 🫵 AD
 
@@ -8,7 +8,7 @@
 
 ***
 
-* [📂 开始](<README (1).md>)
+* [📋 一些必读](<README (1).md>)
   * [文档状态标记说明](readme/status.md)
   * [项目生命周期](readme/life-cycle.md)
   * [版本号格式](readme/version-number.md)
@@ -94,10 +94,6 @@
 
 * [Default+ \[我的世界材质包\]](resource/page-5.md)
 * [Emissive Project \[我的世界材质包\]](resource/page-6.md)
-
-## 公开测试 <a href="#beta" id="beta"></a>
-
-* [🔗 AkAUrl](beta/akaurl.md)
 
 ## 过时 <a href="#outdated" id="outdated"></a>
 

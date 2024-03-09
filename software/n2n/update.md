@@ -10,6 +10,12 @@ description: n2n Update
 
 ## 更新记录
 
+### v2.0.2.309 (2024-03-09)
+
+<mark style="color:blue;">**`[更新]`**</mark>
+
+* [档案文件设置为只读模式后，软件仅读取。](https://nullcraft.org/d/83)
+
 ### v2.0.1.602 (2023-06-02)
 
 <mark style="color:blue;">**`[更新]`**</mark>
