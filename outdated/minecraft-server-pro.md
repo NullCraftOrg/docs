@@ -10,8 +10,8 @@ description: Minecraft Server Pro
 
 ## 了解项目生命周期
 
-{% content-ref url="../readme/life-cycle.md" %}
-[life-cycle.md](../readme/life-cycle.md)
+{% content-ref url="../readthis/life-cycle.md" %}
+[life-cycle.md](../readthis/life-cycle.md)
 {% endcontent-ref %}
 
 ## 原发布地址归档

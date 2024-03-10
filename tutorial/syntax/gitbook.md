@@ -118,8 +118,8 @@ Success - 成功 绿色 "√" 圆图标
 
 #### 效果
 
-{% content-ref url="../../README (1).md" %}
-[README (1).md](<../../README (1).md>)
+{% content-ref url="../../readthis/" %}
+[readthis](../../readthis/)
 {% endcontent-ref %}
 
 ```

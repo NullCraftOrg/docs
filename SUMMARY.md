@@ -1,11 +1,11 @@
 # Table of contents
 
 * [🌟 探索](README.md)
-* [🎓 一些必读](<README (1).md>)
-  * [文档状态标记说明](readme/status.md)
-  * [项目生命周期](readme/life-cycle.md)
-  * [版本号格式](readme/version-number.md)
-  * [了解如何正确的反馈问题](readme/how-to-feedback-issues.md)
+* [🎓 一些必读](readthis/README.md)
+  * [文档状态标记说明](readthis/status.md)
+  * [项目生命周期](readthis/life-cycle.md)
+  * [版本号格式](readthis/version-number.md)
+  * [了解如何正确的反馈问题](readthis/how-to-feedback-issues.md)
 * [🗃️ 捐助支持](donate/README.md)
   * [🐰 2023年捐助列表](donate/2023.md)
   * [🐯 2022年捐助列表](donate/2022.md)
