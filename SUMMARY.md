@@ -98,3 +98,7 @@
 ## 过时 <a href="#outdated" id="outdated"></a>
 
 * [我的世界开服器Pro](outdated/minecraft-server-pro.md)
+
+## AD
+
+* [流量卡好卡](http://kajia.vip/h5/index?shop\_id=MTE2Njk=)
