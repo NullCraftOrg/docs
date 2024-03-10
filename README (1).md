@@ -4,14 +4,6 @@ description: 在这里可以找到灵工艺(NullCraft)原创软件或其他作�
 
 # 📋 一些必读
 
-{% hint style="danger" %}
-**通知**
-
-由于本人购买的 **惠普公司产品：暗影精灵9** 因 [**主板设计问题出现黑屏通病**](https://www.bilibili.com/video/BV1st421p72d)，目前已无法正常使用，故影响项目、全线暂停，仅保障已上线服务正常运行，无法进行更新与维护。
-
-有关具体情况本人会在我的社区中发帖持续跟进更新情况，可[**前往此处吃瓜**](https://nullcraft.org/d/81)。
-{% endhint %}
-
 ## 前言
 
 {% hint style="success" %}
