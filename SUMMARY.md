@@ -1,14 +1,7 @@
 # Table of contents
 
 * [🌟 探索](README.md)
-
-## 🫵 AD
-
-* [免费领取流量好卡](http://kajia.vip/h5/index?shop\_id=MTE2Njk=)
-
-***
-
-* [📋 一些必读](<README (1).md>)
+* [🎓 一些必读](<README (1).md>)
   * [文档状态标记说明](readme/status.md)
   * [项目生命周期](readme/life-cycle.md)
   * [版本号格式](readme/version-number.md)
@@ -98,7 +91,3 @@
 ## 过时 <a href="#outdated" id="outdated"></a>
 
 * [我的世界开服器Pro](outdated/minecraft-server-pro.md)
-
-## AD
-
-* [流量卡好卡](http://kajia.vip/h5/index?shop\_id=MTE2Njk=)
