@@ -10,6 +10,16 @@ description: n2n Update
 
 ## 更新记录
 
+### v2.0.3.315 (2024-03-15)
+
+<mark style="color:orange;">**`[优化]`**</mark>
+
+* 读取/写入档案时的速度优化以及减少硬盘读写次数。
+
+<mark style="color:red;">**`[修复]`**</mark>
+
+* 档案读取后不正常解除组件状态。
+
 ### v2.0.2.309 (2024-03-09)
 
 <mark style="color:blue;">**`[更新]`**</mark>
