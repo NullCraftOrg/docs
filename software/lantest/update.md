@@ -10,6 +10,22 @@ description: Update for LanTest
 
 ## 更新记录
 
+### v0.2.0.317 (2024-03-17)
+
+<mark style="color:blue;">**`[更新]`**</mark>
+
+* 探测模式新增 TCP 与 UDP 协议。
+* TCP 与 UDP 支持探测指定端口。
+
+<mark style="color:orange;">**`[优化]`**</mark>
+
+* UI 布局调整。
+
+<mark style="color:red;">**`[修复]`**</mark>
+
+* 部分逻辑代码优化。
+* 封装部分代码为模块方便后续调用。
+
 ### v0.1.0.1215 (2023-12-15)
 
 <mark style="color:blue;">**`[更新]`**</mark>
