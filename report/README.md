@@ -16,6 +16,10 @@ description: Report for Year
 
 
 
+{% content-ref url="2021.md" %}
+[2021.md](2021.md)
+{% endcontent-ref %}
+
 {% hint style="warning" %}
 其它年度报告目前仍在老文档中。\
 目前仍在重新整理迁移中，暂时可以 [前往此处](https://olddocs.nullcraft.org/report) 查看2023年以前的年度报告。
