@@ -20,6 +20,7 @@
 * [📃 年度报告](report/README.md)
   * [😐 2023](report/2023.md)
   * [😫 2021](report/2021.md)
+  * [😷 2020](report/2020.md)
 * [📫 联系我们](contact.md)
 
 ## 独立教程 <a href="#tutorial" id="tutorial"></a>
