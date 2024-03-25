@@ -47,3 +47,7 @@ description: 此地乃大道之始，未来之门扉。
 {% content-ref url="resource/page-6.md" %}
 [page-6.md](resource/page-6.md)
 {% endcontent-ref %}
+
+{% hint style="info" %}
+_**我永远爱我的家人，正在读此文档的你也是爱你的家人。**_
+{% endhint %}
