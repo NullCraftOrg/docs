@@ -40,6 +40,20 @@ _斜体内容_
 
 ## 颜色
 
+**语法：**
+
+```
+[color=green]我绿了[/color]
+[color=yellow]我黄了[/color]
+[color=red]我了[/color]
+[color=orange]我橙了[/color]
+[color=purple]我紫了[/color]
+[color=blue]我蓝了[/color]
+[color=#2DCEB1]我灵工艺了[/color]
+```
+
+**效果：**
+
 <mark style="color:green;">我绿了</mark>
 
 <mark style="color:yellow;">我黄了</mark>
@@ -52,14 +66,7 @@ _斜体内容_
 
 <mark style="color:blue;">我蓝了</mark>&#x20;
 
-```
-[color=green]我绿了[/color]
-[color=yellow]我黄了[/color]
-[color=red]我了[/color]
-[color=orange]我橙了[/color]
-[color=purple]我紫了[/color]
-[color=blue]我蓝了[/color]
-```
+<mark style="color:green;">我灵工艺了</mark>
 
 ## 超链接
 
