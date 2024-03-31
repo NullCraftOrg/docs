@@ -46,6 +46,7 @@ ___粗斜体文本___
 
 ```
 ~删除线效果~
+~~删除线效果~~
 ```
 
 ## **插入超链接**
@@ -53,20 +54,28 @@ ___粗斜体文本___
 [灵工艺文档](https://docs.nullcraft.org/)
 
 ```
-![这里可以写文字](这里写超链接URL地址)
+[这里可以写文字](这里写超链接URL地址)
 
 //例子
-![灵工艺文档](https://docs.nullcraft.org/)
+[灵工艺文档](https://docs.nullcraft.org/)
 ```
 
 ## **插入图片**
 
 ```
-[这里可以图片描述](这里写图片URL地址)
+![这里可以图片描述](这里写图片URL地址)
 
 //例子
-[灵工艺](https://nullcraft.org/logo.png)
+![灵工艺](https://nullcraft.org/logo.png)
 ```
+
+**效果**
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/CardCover_Default_400x300.png" alt="" width="200"><figcaption></figcaption></figure>
+
+</div>
 
 ## **代码语法高亮**
 
