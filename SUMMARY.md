@@ -36,6 +36,7 @@
 ## 软件 <a href="#software" id="software"></a>
 
 * [模组加载器中心](software/modloader-center/README.md)
+  * [介绍与使用](software/modloader-center/introduction.md)
   * [更新日志](software/modloader-center/update.md)
 * [视窗系统更新暂停工具](software/pause-windows-update/README.md)
   * [使用教学](software/pause-windows-update/tutorial.md)
