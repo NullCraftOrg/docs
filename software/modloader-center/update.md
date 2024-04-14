@@ -10,6 +10,17 @@ description: ModLoader Center Update
 
 ## 更新记录
 
+### \[BETA] 0.3.0.414 (2024-04-14)
+
+<mark style="color:blue;">**`[更新]`**</mark>
+
+* 新增 Stardew Valley SMAPI 加载器
+
+<mark style="color:orange;">**`[优化]`**</mark>
+
+* Minecraft Optifine 标识版本为预览、正式版
+* 优化首页加载器载入逻辑
+
 ### \[BETA] 0.2.0.412 (2024-04-12)
 
 <mark style="color:blue;">**`[更新]`**</mark>
