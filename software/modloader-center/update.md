@@ -10,6 +10,22 @@ description: ModLoader Center Update
 
 ## 更新记录
 
+### \[BETA] 0.4.0.415 (2024-04-15)
+
+<mark style="color:blue;">**`[更新]`**</mark>
+
+* 新增 Terraria tModLoader 加载器
+
+<mark style="color:orange;">**`[优化]`**</mark>
+
+* 封装类似代码，统一调用窗体、模块化等
+* 对模组加载器 Logo 尺寸进行提升以及重构
+* 优化文件结构提高利用率减小软件体积
+
+<mark style="color:red;">**`[修复]`**</mark>
+
+* Stardew Valley SMAPI 加载器不能多选下载
+
 ### \[BETA] 0.3.0.414 (2024-04-14)
 
 <mark style="color:blue;">**`[更新]`**</mark>

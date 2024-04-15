@@ -62,3 +62,5 @@ Trace.WriteLine(NullCraftSoftwareList.Items.Conut());
 <figure><img src="../../.gitbook/assets/modloader_center_rust_oxide.png" alt=""><figcaption><p>Rust Oxide</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/modloader_center_stardew_valley_smapi.png" alt=""><figcaption><p>Stardew Valley SMAPI</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/modloader_center_terraria_tmodloader.png" alt=""><figcaption><p>Terraria tModLoader</p></figcaption></figure>

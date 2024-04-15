@@ -16,6 +16,27 @@ description: Introducing your software
 
 此工具开发主要集合了灵工艺涉及游戏的周边模组加载器(ModLoader)项目，为了方便用户下载和安装(适配中)模组加载器而制作。
 
+**已支持列表：**
+
+**Minecraft**
+
+* Forge 下载支持：✔️ | 安装支持：❌
+* Fabric 下载支持：✔️ | 安装支持：❌
+* Quilt 下载支持：✔️ | 安装支持：❌
+* Optifine 下载支持：✔️ | 安装支持：❌
+
+**Rust**
+
+* Oxide 下载支持：✔️ | 安装支持：❌
+
+**Stardew Valley**
+
+* SMAPI 下载支持：✔️ | 安装支持：❌
+
+**Terraria**
+
+* tModLoader 下载支持：✔️ | 安装支持：❌
+
 ## 使用
 
 {% hint style="info" %}
