@@ -29,7 +29,7 @@ description: Donate made us even stronger
 如果下方二维码图片加载失败可 [点击此处](https://pujipuji.com/) 打开页面
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/pay_all.png" alt=""><figcaption><p>统一收款名称：快辰</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/AllPay.png" alt=""><figcaption><p>统一收款名称：快辰</p></figcaption></figure>
 
 ## 通过第三方平台捐助
 

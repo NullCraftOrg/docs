@@ -49,10 +49,10 @@ description: Introducing your software
 
 1. 运行《模组加载器中心》进入工具主界面
 
-<figure><img src="broken-reference" alt=""><figcaption><p>主界面</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/modloader_center_home.png" alt=""><figcaption><p>主界面</p></figcaption></figure>
 
 2. 选择你要安装的 **游戏** 下的 **加载器**(ModLoader)，这里我们以 Minecraft-Fabric 为例。
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Minecraft Fabric</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/modloader_center_minecraft_fabric.png" alt=""><figcaption><p>Minecraft Fabric</p></figcaption></figure>
 
 3. 此时，将载入对应的加载器下载窗口，通常 **选择** 对应类型，或直接点击 **下载** 按钮即可。
