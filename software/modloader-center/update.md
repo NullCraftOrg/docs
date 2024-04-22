@@ -10,6 +10,17 @@ description: ModLoader Center Update
 
 ## 更新记录
 
+### \[BETA] 0.4.1.422 (2024-04-22)
+
+<mark style="color:blue;">**`[更新]`**</mark>
+
+* 关于页面窗口
+* 一个隐藏的彩蛋
+
+<mark style="color:orange;">**`[优化]`**</mark>
+
+* 首页的列表现在可以折叠了
+
 ### \[BETA] 0.4.0.415 (2024-04-15)
 
 <mark style="color:blue;">**`[更新]`**</mark>
