@@ -4,6 +4,14 @@ description: Introducing your software
 
 # 介绍与使用
 
+{% hint style="info" %}
+如果你正在寻找下载后手动安装 ModLoader 的教学，可以查看此教学
+{% endhint %}
+
+{% content-ref url="../../tutorial/install-modloader/" %}
+[install-modloader](../../tutorial/install-modloader/)
+{% endcontent-ref %}
+
 {% hint style="warning" %}
 **注意：**
 

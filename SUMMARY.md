@@ -32,6 +32,10 @@
   * [BBCode 语法](tutorial/syntax/bbcode.md)
   * [GitBook 语法](tutorial/syntax/gitbook.md)
   * [LaTeX 公式](tutorial/syntax/latex.md)
+* [📦 模组加载器安装集合](tutorial/install-modloader/README.md)
+  * [for Minecraft](tutorial/install-modloader/minecraft/README.md)
+    * [Forge](tutorial/install-modloader/minecraft/forge.md)
+    * [Fabric](tutorial/install-modloader/minecraft/fabric.md)
 
 ## 软件 <a href="#software" id="software"></a>
 
