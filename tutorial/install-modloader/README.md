@@ -37,3 +37,13 @@ description: Install ModLoader
 {% content-ref url="minecraft/fabric.md" %}
 [fabric.md](minecraft/fabric.md)
 {% endcontent-ref %}
+
+{% content-ref url="minecraft/quilt.md" %}
+[quilt.md](minecraft/quilt.md)
+{% endcontent-ref %}
+
+{% content-ref url="minecraft/optifine.md" %}
+[optifine.md](minecraft/optifine.md)
+{% endcontent-ref %}
+
+### 基于 Rust

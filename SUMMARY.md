@@ -36,6 +36,9 @@
   * [for Minecraft](tutorial/install-modloader/minecraft/README.md)
     * [Forge](tutorial/install-modloader/minecraft/forge.md)
     * [Fabric](tutorial/install-modloader/minecraft/fabric.md)
+    * [Quilt](tutorial/install-modloader/minecraft/quilt.md)
+    * [Optifine](tutorial/install-modloader/minecraft/optifine.md)
+  * [for Rust](tutorial/install-modloader/for-rust.md)
 
 ## 软件 <a href="#software" id="software"></a>
 

@@ -15,3 +15,11 @@ description: 选择基于 Minecraft 的 ModLoader 进行查看安装教学。
 {% content-ref url="fabric.md" %}
 [fabric.md](fabric.md)
 {% endcontent-ref %}
+
+{% content-ref url="quilt.md" %}
+[quilt.md](quilt.md)
+{% endcontent-ref %}
+
+{% content-ref url="optifine.md" %}
+[optifine.md](optifine.md)
+{% endcontent-ref %}
