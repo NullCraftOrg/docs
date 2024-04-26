@@ -10,6 +10,12 @@ description: ModLoader Center Update
 
 ## 更新记录
 
+### \[BETA] 0.5.0.426 (2024-04-26)
+
+<mark style="color:blue;">**`[更新]`**</mark>
+
+* 新增 Minecraft NeoForge 加载器
+
 ### \[BETA] 0.4.1.422 (2024-04-22)
 
 <mark style="color:blue;">**`[更新]`**</mark>
