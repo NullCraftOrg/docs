@@ -32,6 +32,7 @@ description: Introducing your software
 * Fabric 下载支持：✔️ | 安装支持：❌
 * Quilt 下载支持：✔️ | 安装支持：❌
 * Optifine 下载支持：✔️ | 安装支持：❌
+* NeoForge 下载支持：✔️ | 安装支持：❌
 
 **Rust**
 

@@ -18,7 +18,7 @@ description: Minecraft Fabric
 如果使用《[^2][模组加载器中心](../../../software/modloader-center/)》下载服务端后，将会弹出使用教学
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/minecraft_fabric_runserver.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/modloader_center_minecraft_fabric_runserver.png" alt=""><figcaption></figcaption></figure>
 
 3. 通过使用《[我的世界开服器](../../../software/minecraft-server/)》或 Bash 命令行/脚本启动服务端
 
