@@ -22,6 +22,9 @@
   * [😫 2021](report/2021.md)
   * [😷 2020](report/2020.md)
 * [📫 联系我们](contact.md)
+* [🤏 薅羊毛](hao-yang-mao/README.md)
+  * [支付宝羊毛](hao-yang-mao/zhi-fu-bao-yang-mao.md)
+  * [流量卡代理](hao-yang-mao/liu-liang-ka-dai-li.md)
 
 ## 独立教程 <a href="#tutorial" id="tutorial"></a>
 
