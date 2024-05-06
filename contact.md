@@ -10,6 +10,14 @@ description: Contact us
 如发现已发布的项目不存在文档时，可前往下方 [#ji-shi-tong-xun](contact.md#ji-shi-tong-xun "mention") 中的交流群提交反馈。
 {% endhint %}
 
+## 交流社区
+
+### 灵工艺社区
+
+主要用于反馈软件BUG、功能更新方向建议、UI，优化等讨论发布，同时也是收集各种反馈唯一指定交流社区。
+
+{% embed url="https://nullcraft.org/" %}
+
 ## 即时通讯
 
 ### \[主要使用] QQ 群
