@@ -10,6 +10,23 @@ description: Update for LanTest
 
 ## 更新记录
 
+### v0.3.0.511 (2024-05-11)
+
+<mark style="color:blue;">**`[更新]`**</mark>
+
+* 现在可以探测显示 Mac 地址了
+* 新增关于页面
+* 添加了 LOGO (来源于iconfont作者：金角大王)
+
+<mark style="color:orange;">**`[优化]`**</mark>
+
+* 显示探测进度数量
+* 一些 UI 调整
+
+<mark style="color:red;">**`[修复]`**</mark>
+
+* 多次探测后鼠标悬浮节点不显示弹窗提示问题
+
 ### v0.2.0.317 (2024-03-17)
 
 <mark style="color:blue;">**`[更新]`**</mark>
