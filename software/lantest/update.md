@@ -10,6 +10,12 @@ description: Update for LanTest
 
 ## 更新记录
 
+### v0.3.1.525 (2024-05-25)
+
+<mark style="color:orange;">**`[优化]`**</mark>
+
+* 添加更多延迟颜色
+
 ### v0.3.0.511 (2024-05-11)
 
 <mark style="color:blue;">**`[更新]`**</mark>
