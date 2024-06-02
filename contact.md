@@ -30,11 +30,5 @@ NullCraft.org：[邀请链接](https://discord.gg/WqnxgG6)
 
 ## 娱乐开黑
 
-已提上日程，目前还在考虑是 KOOK 还是 黑盒语音还是其它的？你们来定吧\~
-
-{% hint style="info" %}
-主要用来长期组队开黑交友，最好可以发文字，也可以语音聊天，语音聊天必须支持自由麦和全局按键说话的功能哦。
-
-可以在用户群里提交建议。
-{% endhint %}
+黑盒语音：[邀请链接](https://chat.xiaoheihe.cn/in7vra)
 
