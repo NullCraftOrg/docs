@@ -10,8 +10,8 @@ description: Tutorial for LanTest
 
 扫描完毕后可以点击 结果计数 确认扫描数量与设置的数量一致，并快速查看在线数量。
 
-<figure><img src="../../.gitbook/assets/lantest_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/lantest_3.png" alt=""><figcaption></figcaption></figure>
 
 探测后也可切换至详细模式查看更多细节。
 
-<figure><img src="../../.gitbook/assets/lantest_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/lantest_2.png" alt=""><figcaption></figcaption></figure>
