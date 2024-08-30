@@ -21,6 +21,9 @@
   * [😐 2023](report/2023.md)
   * [😫 2021](report/2021.md)
   * [😷 2020](report/2020.md)
+  * [✊ 2019](report/2019.md)
+  * [👊 2018](report/2018.md)
+  * [🥺 2017](report/2017.md)
 * [📫 联系我们](contact.md)
 * [🤏 薅羊毛](hao-yang-mao/README.md)
   * [支付宝羊毛](hao-yang-mao/zhi-fu-bao-yang-mao.md)
@@ -45,6 +48,8 @@
 
 ## 软件 <a href="#software" id="software"></a>
 
+* [图标查看导出工具](software/extracticons/README.md)
+  * [更新日志](software/extracticons/update.md)
 * [模组加载器中心](software/modloader-center/README.md)
   * [介绍与使用](software/modloader-center/introduction.md)
   * [更新日志](software/modloader-center/update.md)
