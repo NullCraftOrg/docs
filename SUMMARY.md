@@ -25,9 +25,9 @@
   * [👊 2018](report/2018.md)
   * [🥺 2017](report/2017.md)
 * [📫 联系我们](contact.md)
-* [🤏 薅羊毛](hao-yang-mao/README.md)
-  * [支付宝羊毛](hao-yang-mao/zhi-fu-bao-yang-mao.md)
-  * [流量卡代理](hao-yang-mao/liu-liang-ka-dai-li.md)
+* [🤏 羊毛活动](activity/README.md)
+  * [云服务优惠](activity/yun-fu-wu-you-hui.md)
+  * [支付宝羊毛](activity/zhi-fu-bao-yang-mao.md)
 
 ## 独立教程 <a href="#tutorial" id="tutorial"></a>
 
