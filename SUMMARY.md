@@ -48,6 +48,9 @@
 
 ## 软件 <a href="#software" id="software"></a>
 
+* [简单动态域名服务](software/easyddns/README.md)
+  * [使用教学](software/easyddns/shi-yong-jiao-xue.md)
+  * [更新日志](software/easyddns/update.md)
 * [图标查看导出工具](software/extracticons/README.md)
   * [更新日志](software/extracticons/update.md)
 * [模组加载器中心](software/modloader-center/README.md)
