@@ -10,6 +10,13 @@ description: EasyDDNS Update
 
 ## 更新记录
 
+### v1.1.0.915 (2024-09-15)
+
+<mark style="color:blue;">**`[更新]`**</mark>
+
+* 新增服务商：腾讯云 DNS 解析
+* 新增服务商：Cloudflare DNS 解析
+
 ### v1.0.0.912 (2024-09-12) <a href="#v0.0.1.1213-2023-12-13" id="v0.0.1.1213-2023-12-13"></a>
 
 <mark style="color:purple;">**`[发布]`**</mark>
