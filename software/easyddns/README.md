@@ -47,6 +47,8 @@ Trace.WriteLine(NullCraftSoftwareList.Items.Conut());
 
 ### 软件图片 <a href="#ruan-jian-tu-pian" id="ruan-jian-tu-pian"></a>
 
-<figure><img src="../../.gitbook/assets/easyddns_add_domain.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/easyddns_add_domain.png" alt=""><figcaption><p>添加解析记录</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/easyddns_main.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/easyddns_main.png" alt=""><figcaption><p>主页</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/easyddns_main_sync.png" alt=""><figcaption><p>正在同步解析</p></figcaption></figure>

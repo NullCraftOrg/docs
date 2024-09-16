@@ -10,6 +10,18 @@ description: EasyDDNS Update
 
 ## 更新记录
 
+### v1.2.0.917 (2024-09-17)
+
+<mark style="color:blue;">**`[更新]`**</mark>
+
+* 解析支持变更 TTL 值
+* 部分 UI 状态的保存/恢复
+
+<mark style="color:orange;">**`[优化]`**</mark>
+
+* 优化解析记录判断
+* 优化 API 请求防止造成重复的性能、时间浪费
+
 ### v1.1.0.915 (2024-09-15)
 
 <mark style="color:blue;">**`[更新]`**</mark>
