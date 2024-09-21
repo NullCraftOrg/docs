@@ -10,6 +10,23 @@ description: Update for LanTest
 
 ## 更新记录
 
+### v1.0.0.921 (2024-09-21)
+
+// 第一个正式版本
+
+<mark style="color:blue;">**`[更新]`**</mark>
+
+* .NET 升级至 .NET8
+* 可通过 \[详细列表] 右键选中打开 CMD Ping
+
+<mark style="color:orange;">**`[优化]`**</mark>
+
+* 状态颜色显示
+
+<mark style="color:red;">**`[修复]`**</mark>
+
+* 修改本机 IP 后再次探测 (本机) 标记不准问题
+
 ### v0.3.1.525 (2024-05-25)
 
 <mark style="color:orange;">**`[优化]`**</mark>
