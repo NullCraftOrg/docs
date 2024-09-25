@@ -10,6 +10,22 @@ description: EasyDDNS Update
 
 ## 更新记录
 
+### v1.3.0.925 (2024-09-25)
+
+<mark style="color:blue;">**`[更新]`**</mark>
+
+* IPv6(AAAA) 记录类型解析支持
+
+<mark style="color:orange;">**`[优化]`**</mark>
+
+* 添加解析时支持中文字符域名
+* 添加解析窗口控件排列优化
+
+<mark style="color:red;">**`[修复]`**</mark>
+
+* 腾讯云解析主机记录未能正确指向问题
+* 定时同步无法保存启用状态问题
+
 ### v1.2.0.917 (2024-09-17)
 
 <mark style="color:blue;">**`[更新]`**</mark>

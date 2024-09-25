@@ -40,11 +40,11 @@ description: EasyDDNS Tutorial
 
 在服务商手动添加完解析后，前往 《简单动态域名服务》 中的 **管理域名解析** 页面 点击 **添加解析** 按钮，填写对应的 **主机记录**、**域名** 和 **服务商** 即可。
 
-<figure><img src="../../.gitbook/assets/easyddns_add_domain.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/easyddns_add_domain.png" alt=""><figcaption><p>添加新的解析</p></figcaption></figure>
 
 添加后，点击 **立即同步** 按钮可以快速同步一次，也可以  **勾选启用** 并配置循环同步时间即可(单位：分钟)
 
-<figure><img src="../../.gitbook/assets/easyddns_main.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/easyddns_sync.png" alt=""><figcaption><p>正在进行同步</p></figcaption></figure>
 
 {% hint style="info" %}
 在软件使用上遇到问题或提交更新建议，可以前往 [**灵工艺社区**](https://nullcraft.org/d/56) 或 [**用户群**](https://jq.qq.com/?\_wv=1027\&k=A9YzWvbS) 进行提交。
