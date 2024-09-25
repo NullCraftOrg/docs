@@ -35,8 +35,8 @@ Trace.WriteLine(NullCraftSoftwareList.Items.Conut());
 
 ### 使用教学 <a href="#jie-shao-yu-shi-yong" id="jie-shao-yu-shi-yong"></a>
 
-{% content-ref url="shi-yong-jiao-xue.md" %}
-[shi-yong-jiao-xue.md](shi-yong-jiao-xue.md)
+{% content-ref url="tutorial.md" %}
+[tutorial.md](tutorial.md)
 {% endcontent-ref %}
 
 ### 更新日志 <a href="#geng-xin-ri-zhi" id="geng-xin-ri-zhi"></a>
