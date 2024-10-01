@@ -53,6 +53,6 @@ Trace.WriteLine(NullCraftSoftwareList.Items.Conut());
 
 ### 软件图片
 
-<figure><img src="../../.gitbook/assets/lantest_home.png" alt=""><figcaption><p>局域网探测 | 主页 简略模式</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/lantest_main.png" alt=""><figcaption><p>局域网探测 | 简略模式</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/lantest_detail.png" alt=""><figcaption><p>局域网探测 | 详细模式</p></figcaption></figure>
