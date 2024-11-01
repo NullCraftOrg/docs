@@ -10,6 +10,12 @@ description: Minecraft Server Update
 
 ## 更新记录
 
+### v0.1.3.111 (2024-11-01)
+
+<mark style="color:red;">**`[修复]`**</mark>
+
+* JavaScript 脚本报错提示
+
 ### \[BETA] 0.1.2.302 (2024-03-04)
 
 <mark style="color:orange;">**`[优化]`**</mark>
@@ -54,8 +60,8 @@ description: Minecraft Server Update
 
 <mark style="color:green;">**`[校验]`**</mark>
 
-* **MD5:**9afe0b58e4f3c04cfb9c052163541ee4
-* **SHA1:**669ecefe1e5d0bb193ff5f07f95682f37aea2594
+* \*\*MD5:\*\*9afe0b58e4f3c04cfb9c052163541ee4
+* \*\*SHA1:\*\*669ecefe1e5d0bb193ff5f07f95682f37aea2594
 
 ### **1.5.4.525 (2021-05-25)**
 
