@@ -50,6 +50,7 @@
 
 * [简单动态域名服务](software/easyddns/README.md)
   * [使用教学](software/easyddns/tutorial.md)
+  * [错误码](software/easyddns/errorcode.md)
   * [更新日志](software/easyddns/update.md)
 * [图标查看导出工具](software/extracticons/README.md)
   * [更新日志](software/extracticons/update.md)

@@ -10,6 +10,19 @@ description: EasyDDNS Update
 
 ## 更新记录
 
+### v1.4.1.1104 (2024-11-04)
+
+<mark style="color:blue;">**`[更新]`**</mark>
+
+* 可自定义设置获取 IP 地址 API 接口
+* 对部分错误进行整理并应用错误码 可访问 [错误码](https://docs.nullcraft.org/software/easyddns/errorcode) 查看详细信息
+* Cloudflare DNS 解析使用自封装 SDK 重写
+
+<mark style="color:orange;">**`[优化]`**</mark>
+
+* 测试 IP 地址时展示更多的数据(返回、接口、用时)
+* 华为云 DNS 解析 (自鉴权实现) 上的错误归类优化
+
 ### v1.3.0.925 (2024-09-25)
 
 <mark style="color:blue;">**`[更新]`**</mark>
