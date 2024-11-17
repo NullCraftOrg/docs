@@ -20,7 +20,7 @@ description: Donate made us even stronger
 因第三方捐助平台：爱发电单次支持最低限额设置为 5¥$$^2$$，故其它方式捐助支持的小伙伴发放勋章需要以爱发电平台为最底限额进行发放
 {% endhint %}
 
-**(1).**个人账户ID是注册灵工艺社区后你的个人的唯一标识名称。
+\*\*(1).\*\*个人账户ID是注册灵工艺社区后你的个人的唯一标识名称。
 
 **个人账户地址获取方法:**
 
@@ -29,7 +29,7 @@ description: Donate made us even stronger
 3. 在弹出菜单中选择 `个人主页`
 4. 打开后将此页面的地址链接复制并发送给快辰
 
-**(2).**爱发电平台最低设置捐赠额为 `5¥` 为了与其他赞助者公平获得，以此作为最低发放额。
+\*\*(2).\*\*爱发电平台最低设置捐赠额为 `5¥` 为了与其他赞助者公平获得，以此作为最低发放额。
 
 ## 捐助方案 <a href="#plan" id="plan"></a>
 
@@ -39,7 +39,7 @@ description: Donate made us even stronger
 如果下方二维码图片加载失败可 [点击此处](https://pujipuji.com/) 打开页面
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/AllPay.png" alt=""><figcaption><p>微信  |  支付宝  |  QQ<br>统一收款名称：快辰</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/AllPay.png" alt=""><figcaption><p>微信 | 支付宝 | QQ<br>统一收款名称：快辰</p></figcaption></figure>
 
 ### 通过第三方平台捐助
 
@@ -58,7 +58,7 @@ description: Donate made us even stronger
 ### 今年(2024🐲)的捐助列表 <a href="#now" id="now"></a>
 
 {% hint style="info" %}
-当前列表更新时间 2024-09-25 12:00
+当前列表更新时间 2024-11-18 01:20
 {% endhint %}
 
 | 日期(2024)   | 名称          | 金额(¥) | 捐助留言              | 我的回复   |

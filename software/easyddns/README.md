@@ -47,8 +47,10 @@ Trace.WriteLine(NullCraftSoftwareList.Items.Conut());
 
 ### 软件图片 <a href="#ruan-jian-tu-pian" id="ruan-jian-tu-pian"></a>
 
-<figure><img src="../../.gitbook/assets/easyddns_add_domain.png" alt=""><figcaption><p>简单动态域名服务 | 添加解析记录</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/easyddns_home.png" alt=""><figcaption><p>简单动态域名服务 | 主页</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/easyddns_main.png" alt=""><figcaption><p>简单动态域名服务 | 主界面</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/easyddns_add.png" alt=""><figcaption><p>简单动态域名服务 | 添加解析</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/easyddns_sync.png" alt=""><figcaption><p>简单动态域名服务 | 正在同步解析</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/easyddns_sync.png" alt=""><figcaption><p>简单动态域名服务 | 同步解析</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/easyddns_sync_done.png" alt=""><figcaption><p>简单动态域名服务 | 同步完成</p></figcaption></figure>
