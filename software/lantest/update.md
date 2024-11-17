@@ -10,6 +10,12 @@ description: Update for LanTest
 
 ## 更新记录
 
+### v1.0.2.1117 (2024-10-17)
+
+<mark style="color:red;">**`[修复]`**</mark>
+
+* 部分 UI 大小、错位问题
+
 ### v1.0.1.1001 (2024-10-01)
 
 <mark style="color:orange;">**`[优化]`**</mark>
