@@ -10,6 +10,16 @@ description: EasyDDNS Update
 
 ## 更新记录
 
+### v1.5.1.1125 (2024-11-25)
+
+<mark style="color:blue;">**`[更新]`**</mark>
+
+* 软件现在有自己的专属图标啦
+
+<mark style="color:red;">**`[修复]`**</mark>
+
+* 关于页面未正确显示问题
+
 ### v1.5.0.1118 (2024-11-18)
 
 {% hint style="warning" %}
