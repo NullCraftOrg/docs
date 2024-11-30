@@ -7,7 +7,7 @@ description: 此地乃大道之始，未来之门扉。
 ## 从这里开始了解我们
 
 {% hint style="success" %}
-灵工艺系列项目文档已迁移至此，如果遇到一些老软件的历史遗留问题，可以尝试访问下方的老文档门户站来查找解决方案。
+当前访问 **v2.0** 文档，如需查找 22 年及以前的内容可点击下方卡片查看已归档的 **v1.0** 文档
 {% endhint %}
 
 {% embed url="https://olddocs.nullcraft.org/" %}
@@ -47,9 +47,3 @@ description: 此地乃大道之始，未来之门扉。
 {% content-ref url="resource/page-6.md" %}
 [page-6.md](resource/page-6.md)
 {% endcontent-ref %}
-
-***
-
-{% hint style="info" %}
-**我永远爱我的家人，正在读此文档的你也爱你的家人。**
-{% endhint %}
