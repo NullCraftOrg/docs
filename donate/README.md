@@ -47,22 +47,20 @@ description: Donate made us even stronger
 
 ### 通过活动进行支持
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Free_HongBao_AliPay.png" alt="" width="254"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/Free_HongBao_AliPay.png" alt="" width="254"><figcaption></figcaption></figure></div>
 
 ## 捐助列表 <a href="#list" id="list"></a>
 
 ### 今年(2024🐲)的捐助列表 <a href="#now" id="now"></a>
 
 {% hint style="info" %}
-当前列表更新时间 2024-11-18 01:20
+当前列表更新时间 2024-12-01 13:17
 {% endhint %}
 
-| 日期(2024)   | 名称          | 金额(¥) | 捐助留言              | 我的回复   |
+| 日期(2024)   | 名称          | 金额(¥) | 捐助者留言             | 我的回复   |
 | ---------- | ----------- | ----- | ----------------- | ------ |
+| 2024-12-01 | \*\*彬       | 100   |                   | 啊！？    |
+| 2024-11-19 | \*e         | 15    | 很好的开服器👍          | 感谢支持！  |
 | 2024-08-20 | 吃饱了没事做的Reze | 5     |                   |        |
 | 2024-08-20 | 云洲          | 5     |                   |        |
 | 2024-08-20 | 全梨花雨凉       | 5     |                   |        |
