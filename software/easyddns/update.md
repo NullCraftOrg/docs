@@ -10,6 +10,12 @@ description: EasyDDNS Update
 
 ## 更新记录
 
+### v1.5.2.1207 (2024-12-07)
+
+<mark style="color:red;">**`[修复]`**</mark>
+
+* 部分情况软件无法正常打开问题
+
 ### v1.5.1.1125 (2024-11-25)
 
 <mark style="color:blue;">**`[更新]`**</mark>
