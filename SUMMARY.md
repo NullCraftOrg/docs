@@ -48,6 +48,8 @@
 
 ## 软件 <a href="#software" id="software"></a>
 
+* [森林开服器](software/the-forest-server/README.md)
+  * [更新日志](software/the-forest-server/update.md)
 * [自定义窗口](software/customwindow/README.md)
   * [更新日志](software/customwindow/update.md)
 * [简单动态域名服务](software/easyddns/README.md)
