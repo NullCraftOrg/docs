@@ -35,4 +35,14 @@ Trace.WriteLine(NullCraftSoftwareList.Items.Conut());
 
 ### 更新日志 <a href="#geng-xin-ri-zhi" id="geng-xin-ri-zhi"></a>
 
+{% content-ref url="update.md" %}
+[update.md](update.md)
+{% endcontent-ref %}
+
+
+
 ### 软件图片 <a href="#ruan-jian-tu-pian" id="ruan-jian-tu-pian"></a>
+
+<figure><img src="../../.gitbook/assets/the-forest-server_main.png" alt=""><figcaption><p>[灵工艺] 森林(The Forest)开服器 | 主页面</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/the-forest-server_serverconfig.png" alt=""><figcaption><p>[灵工艺] 森林(The Forest)开服器 | 配置页面</p></figcaption></figure>
