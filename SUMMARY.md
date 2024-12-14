@@ -33,6 +33,7 @@
 
 * [😇 我的世界Java版开服教程](tutorial/minecraft-server.md)
 * [🛏️ 我的世界基岩版开服教程](tutorial/minecraft-bedrock-server.md)
+* [🌲 森林开服教程](tutorial/the-forest-server.md)
 * [📌 轻量标记语言语法](tutorial/syntax/README.md)
   * [MarkDown 语法](tutorial/syntax/markdown.md)
   * [BBCode 语法](tutorial/syntax/bbcode.md)
