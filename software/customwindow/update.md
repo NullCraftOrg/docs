@@ -10,6 +10,21 @@ description: CustomWindow Update
 
 ## 更新记录
 
+### v1.2.0.1223 (2024-12-23)
+
+<mark style="color:blue;">**`[更新]`**</mark>
+
+* 新的软件图标!
+* 置顶窗口 需要使用 "SetWindowPos" 方案
+
+<mark style="color:orange;">**`[优化]`**</mark>
+
+* 配置文件的保存改为关闭软件时自动保存
+
+<mark style="color:green;">**`[安全]`**</mark>
+
+* SHA256: 41add5b363be23555f43fcf3fb624c63ef96b922f0006b098e0ba7cdf65665be
+
 ### v1.1.0.1222 (2024-12-22)
 
 <mark style="color:blue;">**`[更新]`**</mark>
