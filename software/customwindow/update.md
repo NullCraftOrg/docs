@@ -10,6 +10,16 @@ description: CustomWindow Update
 
 ## 更新记录
 
+### v1.3.0.1223 (2024-12-23)
+
+<mark style="color:blue;">**`[更新]`**</mark>
+
+* 自定义窗口 XY 位置
+
+<mark style="color:green;">**`[安全]`**</mark>
+
+* SHA256: c03e1db57f70fe5342861b3f0edf153a19648e926e2217128dd10d4ef516d03c
+
 ### v1.2.0.1223 (2024-12-23)
 
 <mark style="color:blue;">**`[更新]`**</mark>
