@@ -10,6 +10,20 @@ description: The Forest Server Update
 
 ## 更新记录
 
+### v1.1.1.1224 (2024-12-24)
+
+<mark style="color:blue;">**`[更新]`**</mark>
+
+* 软件窗口、控制台部分功能的状态保存
+
+<mark style="color:orange;">**`[优化]`**</mark>
+
+* 日志时间淡化处理
+
+<mark style="color:green;">**`[安全]`**</mark>
+
+* SHA256: 20ed99ee44feb51c099abc79540efc2959bcf49fa5969c262d7c1c13502b930e
+
 ### v1.1.0.1222 (2024-12-22)
 
 <mark style="color:blue;">**`[更新]`**</mark>
