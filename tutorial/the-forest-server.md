@@ -43,8 +43,22 @@ description: How to open a The Forest server tutorial
 
 <figure><img src="../.gitbook/assets/tutorial_the-forest-server_join.png" alt=""><figcaption></figcaption></figure>
 
+## 设置 Steam 游戏账户
+
+若要使用 Steam 服务器功能，例如收藏，游戏保存，需要设置 Steam 游戏账户令牌。
+
+**可参考此教程:**
+
+{% content-ref url="steam-game-server.md" %}
+[steam-game-server.md](steam-game-server.md)
+{% endcontent-ref %}
+
 ## 问题排查
 
 ### 无法找到服务器
 
 检查 服务器配置页面 中的 服务器IP地址 栏目，将此处的 IP 地址填写为本机 IPv4 地址或公网 IPv4 地址后再试
+
+### 无法保存游戏进度
+
+检查是否设置了 [#she-zhi-steam-you-xi-zhang-hu](the-forest-server.md#she-zhi-steam-you-xi-zhang-hu "mention") 的令牌
