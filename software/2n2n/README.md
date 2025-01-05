@@ -1,23 +1,23 @@
 ---
-description: A n2n GUI
+description: 2n2n
 ---
 
 # 网上邻居
 
 {% hint style="success" %}
-现在已发布 2.0 版本测试预览版，可加入 [群聊下载](https://jq.qq.com/?\_wv=1027\&k=A9YzWvbS) 参与体验。
+现在已发布 3.0 版本，可加入 [用户群](https://jq.qq.com/?_wv=1027\&k=A9YzWvbS) 下载体验。
 {% endhint %}
 
 {% code title="n2n.sln" %}
 ```csharp
 Software software = new Software();
 software.Name = "网上邻居";
-software.ProjectID = "n2n";
+software.ProjectID = "2n2n";
 software.Release = "https://nullcraft.org/d/39";
 software.ReleaseDate = DateTime.Parse("2021,10,14").ToString();
 software.Language = new string[] { "简体中文" };
 software.Program = "C#";
-software.Framework = ".NET4.8";
+software.Framework = ".NET8";
 
 NullCraftSoftwareList.add(software);
 

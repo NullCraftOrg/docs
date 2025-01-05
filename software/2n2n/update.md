@@ -1,5 +1,5 @@
 ---
-description: n2n Update
+description: 2n2n Update
 ---
 
 # 更新日志
@@ -9,6 +9,33 @@ description: n2n Update
 {% embed url="https://nullcraft.org/d/39" %}
 
 ## 更新记录
+
+### v3.0.0.0 (2025-01-01)
+
+{% hint style="info" %}
+**提示**
+
+更新此版本需要更新 .NET 至 **.NET8**
+{% endhint %}
+
+<mark style="color:blue;">**`[更新]`**</mark>
+
+* .NET 版本升级至 .NET8
+* 整体框架 80%以上代码进行了重构
+* 档案的快速分享/导入功能
+* 档案只读状态(需要手动设置)
+* 节点现在有更好的管理窗口了
+* 更多的组网状态通知
+* 移除了一些不必要的功能
+
+<mark style="color:orange;">**`[优化]`**</mark>
+
+* 档案读取减少了读写次数(2-3次 -> 1次)
+* 档案选择读取/写入速度提升
+
+<mark style="color:green;">**`[安全]`**</mark>
+
+* SHA256: SHA256:b5f0e69dae39f3a6a9d0abb523c52bd9dad63b82e3dd814250141bc0ad4aa592
 
 ### v2.0.3.315 (2024-03-15)
 
