@@ -10,7 +10,7 @@ description: 2n2n Update
 
 ## 更新记录
 
-### v3.0.0.0 (2025-01-01)
+### v3.0.0.105 (2025-01-05)
 
 {% hint style="info" %}
 **提示**
@@ -36,6 +36,8 @@ description: 2n2n Update
 <mark style="color:green;">**`[安全]`**</mark>
 
 * SHA256: SHA256:b5f0e69dae39f3a6a9d0abb523c52bd9dad63b82e3dd814250141bc0ad4aa592
+
+***
 
 ### v2.0.3.315 (2024-03-15)
 

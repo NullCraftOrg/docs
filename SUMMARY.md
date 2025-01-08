@@ -78,7 +78,6 @@
 * [提瓦特之匙](software/the-key-of-teyvat/README.md)
   * [更新日志](software/the-key-of-teyvat/update.md)
 * [网上邻居](software/2n2n/README.md)
-  * [介绍](software/2n2n/introduction.md)
   * [快速上手](software/2n2n/tutorial.md)
   * [更新日志](software/2n2n/update.md)
 * [泰拉瑞亚开服器](software/terraria-server/README.md)
