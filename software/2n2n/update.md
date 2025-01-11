@@ -10,6 +10,21 @@ description: 2n2n Update
 
 ## 更新记录
 
+### v3.0.1.111 (2025-01-11)
+
+<mark style="color:blue;">**`[更新]`**</mark>
+
+* 管理节点支持修改已添加的节点信息
+
+<mark style="color:red;">**`[修复]`**</mark>
+
+* 未正确选择节点时启动组网异常报错
+* 未正确选择协议时启动组网异常报错
+
+<mark style="color:green;">**`[安全]`**</mark>
+
+* SHA256: e7b7b84aa071f20182d5c5f606c0edb9ca083a6aedc6d217fd0451d6d5f77512
+
 ### v3.0.0.105 (2025-01-05)
 
 {% hint style="info" %}
