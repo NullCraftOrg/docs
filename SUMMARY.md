@@ -7,6 +7,7 @@
   * [版本号格式](readthis/version-number.md)
   * [了解如何正确的反馈问题](readthis/how-to-feedback-issues.md)
 * [🗃️ 捐助支持](donate/README.md)
+  * [🐲 2024年捐助列表](donate/2024-nian-juan-zhu-lie-biao.md)
   * [🐰 2023年捐助列表](donate/2023.md)
   * [🐯 2022年捐助列表](donate/2022.md)
   * [🐮 2021年捐助列表](donate/2021.md)
