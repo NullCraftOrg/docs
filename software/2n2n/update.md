@@ -10,6 +10,17 @@ description: 2n2n Update
 
 ## 更新记录
 
+### v3.1.0.112 (2025-01-12)
+
+<mark style="color:blue;">**`[更新]`**</mark>
+
+* 超级节点服务端可视化工具
+
+<mark style="color:green;">**`[安全]`**</mark>
+
+* 客户端 SHA256: e7b7b84aa071f20182d5c5f606c0edb9ca083a6aedc6d217fd0451d6d5f77512
+* 服务端 SHA256: 63c01863dd36fbe584f99fb69caef8912e6ebd6aa1dd27aae7623b4ebc83cb71
+
 ### v3.0.1.111 (2025-01-11)
 
 <mark style="color:blue;">**`[更新]`**</mark>

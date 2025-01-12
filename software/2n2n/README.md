@@ -95,3 +95,5 @@ n2n组网是需要使用中间人超级节点(supernode)的，我暂时不会提
 <figure><img src="../../.gitbook/assets/2n2n_node.png" alt=""><figcaption><p>网上邻居(2n2n) - 节点管理</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/2n2n_log.png" alt=""><figcaption><p>网上邻居(2n2n) - 查看日志</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/2n2n_supernode.png" alt=""><figcaption><p>网上邻居(2n2n) - 超级节点</p></figcaption></figure>
