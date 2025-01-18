@@ -10,6 +10,17 @@ description: The Forest Server Update
 
 ## 更新记录
 
+### v1.1.2.118 (2025-01-18)
+
+<mark style="color:orange;">**`[优化]`**</mark>
+
+* 服务器配置加入原选项名称
+* 优化控制台文本颜色逻辑
+
+<mark style="color:green;">**`[安全]`**</mark>
+
+* SHA256: f74a188a3da86577bcfba1b67252da1a0f6334f18b3a1f0d7b2d5a0dda547ab2
+
 ### v1.1.1.1224 (2024-12-24)
 
 <mark style="color:blue;">**`[更新]`**</mark>
