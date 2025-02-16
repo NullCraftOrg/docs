@@ -10,6 +10,17 @@ description: 2n2n Update
 
 ## 更新记录
 
+### v3.1.1.217 (2025-02-17)
+
+<mark style="color:red;">**`[修复]`**</mark>
+
+* 等待退出动画打断未正常恢复问题(不影响功能正常工作)
+
+<mark style="color:green;">**`[安全]`**</mark>
+
+* 客户端 SHA256: f50b0239638408874ee26b366e77f8280dc03d3057750b5c6fa3bba6996229cc
+* 服务端 SHA256: 63c01863dd36fbe584f99fb69caef8912e6ebd6aa1dd27aae7623b4ebc83cb71
+
 ### v3.1.0.112 (2025-01-12)
 
 <mark style="color:blue;">**`[更新]`**</mark>
