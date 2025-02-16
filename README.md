@@ -6,20 +6,6 @@ description: 此地乃大道之始，未来之门扉。
 
 ## 从这里开始了解我们
 
-{% hint style="success" %}
-当前访问 **v2.0** 文档，如需查找 22 年及以前的内容可点击下方卡片查看已归档的 **v1.0** 文档
-{% endhint %}
-
-{% embed url="https://olddocs.nullcraft.org/" %}
-
-{% hint style="info" %}
-同时，新文档已开放编辑权限，如参与编辑，可以点击下方的超链接提交更新。
-{% endhint %}
-
-{% embed url="https://github.com/NullCraftOrg/docs" %}
-
-## 访问已发布项目文档
-
 ### 软件
 
 以发布日期倒序排序。
@@ -47,3 +33,19 @@ description: 此地乃大道之始，未来之门扉。
 {% content-ref url="resource/page-6.md" %}
 [page-6.md](resource/page-6.md)
 {% endcontent-ref %}
+
+## 查看旧文档
+
+{% hint style="info" %}
+当前访问 **v2.0** 文档，如需查找 22 年及以前的内容可点击下方卡片查看已归档的 **v1.0** 文档
+{% endhint %}
+
+{% embed url="https://olddocs.nullcraft.org/" %}
+
+## 协助更新文档
+
+{% hint style="info" %}
+同时，新文档已开放编辑权限，如参与编辑，可以点击下方的超链接提交更新。
+{% endhint %}
+
+{% embed url="https://github.com/NullCraftOrg/docs" %}
