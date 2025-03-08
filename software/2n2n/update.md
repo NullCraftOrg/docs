@@ -10,6 +10,24 @@ description: 2n2n Update
 
 ## 更新记录
 
+{% hint style="info" %}
+**提示**
+
+从此版本开始 2n2n 的客户端与超级节点版本号、更新日志分开说明
+{% endhint %}
+
+### 超级节点:v3.1.0.308 (2025-03-08)
+
+<mark style="color:blue;">**`[超级节点:更新]`**</mark>
+
+* 软件的配置保存与读取
+* 支持跟随 Windows 启动
+* 支持启动时自动开启超级节点服务
+
+<mark style="color:green;">**`[超级节点:安全]`**</mark>
+
+* SHA256: d4c45dcaf18bc0878761d969525a7d38684cb0dd2b955a95fe114da1e823ab17
+
 ### v3.1.1.217 (2025-02-17)
 
 <mark style="color:red;">**`[修复]`**</mark>
