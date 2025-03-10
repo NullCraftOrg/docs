@@ -1,5 +1,6 @@
 ---
 description: Mindustry Server
+icon: code-simple
 ---
 
 # 像素工厂(Mindustry)开服教程
@@ -24,7 +25,7 @@ description: Mindustry Server
 
 前往灵工艺官方发布页面可以下载开服工具
 
-> soon
+{% embed url="https://nullcraft.org/d/107" %}
 
 ### 开始部署服务器
 
