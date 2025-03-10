@@ -53,6 +53,9 @@
 
 ## 软件 <a href="#software" id="software"></a>
 
+* [像素工厂开服器](software/mindustry-server/README.md)
+  * [像素工厂开服教程](https://docs.nullcraft.org/tutorial/mindustry-server)
+  * [更新日志](software/mindustry-server/update.md)
 * [森林开服器](software/the-forest-server/README.md)
   * [更新日志](software/the-forest-server/update.md)
 * [自定义窗口](software/customwindow/README.md)
