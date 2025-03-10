@@ -49,6 +49,7 @@
     * [Optifine](tutorial/install-modloader/minecraft/optifine.md)
   * [for Rust](tutorial/install-modloader/for-rust.md)
 * [🎮 Steam 游戏服务器帐户管理](tutorial/steam-game-server.md)
+* [像素工厂(Mindustry)开服教程](tutorial/mindustry-server.md)
 
 ## 软件 <a href="#software" id="software"></a>
 
