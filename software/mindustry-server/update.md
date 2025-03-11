@@ -10,6 +10,22 @@ description: Mindustry Server Update
 
 ## 更新记录
 
+### v1.0.1.311 (2025-03-11)
+
+<mark style="color:orange;">**`[优化]`**</mark>
+
+* 支持获取更多已安装的 Java
+
+<mark style="color:red;">**`[修复]`**</mark>
+
+* Java 列表中读取到错误的 java.exe 问题
+* 连续输入命令时使用快捷键(回车)提示内容未消失问题
+* 服务端文件名含有空格或特殊字符时无法正常载入问题
+
+<mark style="color:green;">**`[安全]`**</mark>
+
+* SHA256: d903a53460c078af906e6f1db4c33dc3c31f6885130fc8c2f561c41a2dc2e776
+
 ### v1.0.0.310 (2025-03-10)
 
 <mark style="color:purple;">**`[发布]`**</mark>
