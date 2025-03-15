@@ -16,13 +16,14 @@ description: GitBook Syntax
 
 {% code lineNumbers="true" fullWidth="false" %}
 ```
-{% raw %}
-{% hint style="info" %}
-这里写内容，同时也支持 MarkDown 语法和引入图片、超链接等。
-{% endhint %}
-{% endraw %}
 ```
 {% endcode %}
+
+\`\`\` \{% hint style="info" %\} 这里写内容，同时也支持 MarkDown 语法和引入图片、超链接等。 \{% endhint %\}
+
+```
+
+</div>
 
 参数 `style=""` 可选 `info`、`warning`、`danger`、`success`
 
@@ -30,50 +31,58 @@ description: GitBook Syntax
 
 Info 风格
 
-{% hint style="info" %}
+<div data-gb-custom-block data-tag="hint" data-style='info'>
+
 Info - 信息 蓝色 "i" 圆图标
-{% endhint %}
+
+</div>
 
 ```
-{% raw %}
-{% hint style="info" %} Info - 信息 蓝色 "i" 圆图标 {% endhint %}
-{% endraw %}
+
+\{% hint style="info" %\} Info - 信息 蓝色 "i" 圆图标 \{% endhint %\}
+
 ```
 
 Warning 风格
 
-{% hint style="warning" %}
+<div data-gb-custom-block data-tag="hint" data-style='warning'>
+
 Warning - 警告 橙色 "!" 圆图标
-{% endhint %}
+
+</div>
 
 ```
-{% raw %}
-{% hint style="warning" %} Warning - 警告 橙色 "!" 圆图标 {% endhint %}
-{% endraw %}
+
+\{% hint style="warning" %\} Warning - 警告 橙色 "!" 圆图标 \{% endhint %\}
+
 ```
 
 Danger 风格
 
-{% hint style="danger" %}
+<div data-gb-custom-block data-tag="hint" data-style='danger'>
+
 Danger - 危险 红色 "!" 三角图标
-{% endhint %}
+
+</div>
 
 ```
-{% raw %}
-{% hint style="danger" %} Danger - 危险 红色 "!" 三角图标 {% endhint %}
-{% endraw %}
+
+\{% hint style="danger" %\} Danger - 危险 红色 "!" 三角图标 \{% endhint %\}
+
 ```
 
 Success 风格
 
-{% hint style="success" %}
+<div data-gb-custom-block data-tag="hint" data-style='success'>
+
 Success - 成功 绿色 "√" 圆图标
-{% endhint %}
+
+</div>
 
 ```
-{% raw %}
-{% hint style="success" %} Success - 成功 绿色 "√" 圆图标 {% endhint %}
-{% endraw %}
+
+\{% hint style="success" %\} Success - 成功 绿色 "√" 圆图标 \{% endhint %\}
+
 ```
 
 ## Embed (嵌入)
@@ -83,33 +92,27 @@ Success - 成功 绿色 "√" 圆图标
 #### 语法
 
 ```
-{% raw %}
-{% embed url="https://nullcraft.org/" %}
-{% endraw %}
+
+\{% embed url="https://nullcraft.org/" %\}
+
 ```
 
 #### 效果
 
-{% embed url="https://nullcraft.org/" %}
+<div data-gb-custom-block data-tag="embed" data-url='https://nullcraft.org/'></div>
 
 ### 超链接文档卡片
 
 #### 语法
 
 ```
-{% raw %}
-{% content-ref url="路径" %}
-[文档文件名字](文档文件路径)
-{% endcontent-ref %}
 
-{% content-ref url="../../" %}
-[..](../../)
-{% endcontent-ref %}
+\{% content-ref url="路径" %\} [文档文件名字](%E6%96%87%E6%A1%A3%E6%96%87%E4%BB%B6%E8%B7%AF%E5%BE%84/) \{% endcontent-ref %\}
 
-{% content-ref url="../../donate/" %}
-[donate](../../donate/)
-{% endcontent-ref %}
-{% endraw %}
+\{% content-ref url="../../" %\} [..](../../) \{% endcontent-ref %\}
+
+\{% content-ref url="../../donate/" %\} [donate](../../donate/) \{% endcontent-ref %\}
+
 ```
 
 参数 `url="../../"` url内填写文档的路径，以调用文档为基准，向上(../)或向下(/)写路径。
@@ -118,27 +121,26 @@ Success - 成功 绿色 "√" 圆图标
 
 #### 效果
 
-{% content-ref url="../../readthis/" %}
+<div data-gb-custom-block data-tag="content-ref" data-url='../../readthis/'>
+
 [readthis](../../readthis/)
-{% endcontent-ref %}
+
+</div>
 
 ```
-{% raw %}
-{% content-ref url="../../" %}
-[..](../../)
-{% endcontent-ref %}
-{% endraw %}
+
+\{% content-ref url="../../" %\} [..](../../) \{% endcontent-ref %\}
+
 ```
 
-{% content-ref url="../../donate/" %}
+<div data-gb-custom-block data-tag="content-ref" data-url='../../donate/'>
+
 [donate](../../donate/)
-{% endcontent-ref %}
+
+</div>
 
 ```
-{% raw %}
-{% content-ref url="../../donate/" %}
-[donate](../../donate/)
-{% endcontent-ref %}
-{% endraw %}
-{% endraw %}
-```
+
+\{% content-ref url="../../donate/" %\} [donate](../../donate/) \{% endcontent-ref %\}
+
+\`\`\`

@@ -52,3 +52,5 @@ Trace.WriteLine(NullCraftSoftwareList.Items.Conut());
 <figure><img src="../../.gitbook/assets/mindustry-server_main.png" alt=""><figcaption><p>[灵工艺] 像素工厂(Mindustry)开服器 | 主页面</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/mindustry-server_server-properties.png" alt=""><figcaption><p>[灵工艺] 像素工厂(Mindustry)开服器 | 服务器配置页面</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/mindustry-server_trigger.png" alt=""><figcaption><p>[灵工艺] 像素工厂(Mindustry)开服器 | 触发事件</p></figcaption></figure>

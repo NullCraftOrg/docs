@@ -10,6 +10,16 @@ description: Mindustry Server Update
 
 ## 更新记录
 
+### v1.1.0.315 (2025-03-15)
+
+<mark style="color:blue;">**`[更新]`**</mark>
+
+* 新增功能: 触发事件，可用于一些条件触发多组内容。
+
+<mark style="color:green;">**`[安全]`**</mark>
+
+* SHA256: 49c4a4b3ef773b6f47d9031859fa9d2354d038e79e85d0455feafc6ee1eecfcc
+
 ### v1.0.1.311 (2025-03-11)
 
 <mark style="color:orange;">**`[优化]`**</mark>
