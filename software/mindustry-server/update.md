@@ -10,6 +10,17 @@ description: Mindustry Server Update
 
 ## 更新记录
 
+### v1.1.1.316 (2025-03-16)
+
+<mark style="color:blue;">**`[更新]`**</mark>
+
+* 触发事件:事件组命令可选则上下重新排序位置
+* 玩家列表右键可以复制和管理玩家信息
+
+<mark style="color:green;">**`[安全]`**</mark>
+
+* SHA256: f9b812927e04b0f19366f37db7b67f27cd697e0f14a33dcd4473d4fe414d121b
+
 ### v1.1.0.315 (2025-03-15)
 
 <mark style="color:blue;">**`[更新]`**</mark>
