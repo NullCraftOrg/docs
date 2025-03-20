@@ -10,6 +10,31 @@ description: 2n2n Update
 
 ## 更新记录
 
+### 客户端:v3.1.2.320 (2025-03-20)
+
+<mark style="color:orange;">**`[客户端:修复]`**</mark>
+
+* 检测节点在线延迟失败问题
+
+<mark style="color:red;">**`[客户端:优化]`**</mark>
+
+* 部分控件对齐问题优化
+* n2n返回日志的日期改为更为易读格式
+
+<mark style="color:green;">**`[客户端:安全]`**</mark>
+
+* SHA256: d969069c7492d32dce420c0bcce3cf71041fdad3298f0aa66819b66e911acda9
+
+### 超级节点:v3.1.1.309 (2025-03-09)
+
+<mark style="color:red;">**`[超级节点:修复]`**</mark>
+
+* 跟随 Windows 启动时无法正常读取环境问题
+
+<mark style="color:green;">**`[超级节点:安全]`**</mark>
+
+* SHA256: 0a2542c10578f011253c8edd11af6bd83ca38ad58f98f5369e4c2783a8256a84
+
 {% hint style="info" %}
 **提示**
 
