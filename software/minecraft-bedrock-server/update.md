@@ -10,6 +10,32 @@ description: Minecraft Bedrock Server Update
 
 ## 更新记录
 
+{% hint style="info" %}
+**提示**
+
+正式版发布，.NET7更新至.NET8，更新后如电脑不存在则需要安装新框架，软件打开时会自动检测提示安装。
+{% endhint %}
+
+### v1.0.0.401 (2025-04-01)
+
+<mark style="color:blue;">**`[更新]`**</mark>
+
+* 底层架构全部重写
+* 服务端配置支持更多内容的管理
+* 玩家列表支持管理允许(白名单)列表
+* 新增触发事件功能
+* 移除了"主页"页面(实用性低暂不考虑回归)
+* 移除了"文件管理"页面(将在后续更新回归)
+
+<mark style="color:orange;">**`[优化]`**</mark>
+
+* UI布局优化
+* 窗体支持自定义大小
+
+<mark style="color:green;">**`[安全]`**</mark>
+
+* SHA256: a15d79dc092e4c2ad77c33c5d9d83b059bb55530fcc6fe030ba6af7f600b48a3
+
 ### \[BETA] 0.3.2.622 (2023-06-22)
 
 <mark style="color:blue;">**`[更新]`**</mark>

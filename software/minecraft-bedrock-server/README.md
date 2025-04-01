@@ -7,7 +7,7 @@ description: Minecraft Bedrock Server
 {% hint style="warning" %}
 **此工具处于 BETA 持续开发阶段。**
 
-如遇到任何错误，请通过 [用户群](https://jq.qq.com/?\_wv=1027\&k=A9YzWvbS) 或 [灵工艺社区](https://nullcraft.org/t/feedback) 进行反馈。
+如遇到任何错误，请通过 [用户群](https://jq.qq.com/?_wv=1027\&k=A9YzWvbS) 或 [灵工艺社区](https://nullcraft.org/t/feedback) 进行反馈。
 {% endhint %}
 
 <pre class="language-csharp" data-title="Minecraft_Bedrock_Server.sln"><code class="lang-csharp">Software software = new Software();
@@ -17,7 +17,7 @@ software.Release = "#";
 software.ReleaseDate = DateTime.Parse("2023,6,01").ToString();
 software.Language = new string[] { "简体中文" };
 software.Program = "C#";
-software.Framework = ".NET7";
+software.Framework = ".NET8";
 
 NullCraftSoftwareList.add(software);
 
