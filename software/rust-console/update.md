@@ -10,6 +10,17 @@ description: Rust Console Update
 
 ## 更新记录
 
+### v2.0.2.424 (2025-04-24)
+
+<mark style="color:red;">**`[修复]`**</mark>
+
+* 当服务器关闭时重复销毁连接导致的异常崩溃
+* 测试控件未能正常移除问题
+
+<mark style="color:green;">**`[安全]`**</mark>
+
+* SHA256: 61028596540f3d354f2156e664cc2703a2b5356ea81b338f35c91c85bcdb4e6c
+
 ### v2.0.1.424 (2025-04-24)
 
 <mark style="color:blue;">**`[更新]`**</mark>
@@ -17,7 +28,7 @@ description: Rust Console Update
 * 连接错误时可以查看错误信息(当错误时可点击状态"\[状态错误]"文字查看)
 * 全部日志、聊天日志、玩家日志、发送记录的右键菜单支持全选和清空日志。
 
-<mark style="color:orange;">**`[修复]`**</mark>
+<mark style="color:red;">**`[修复]`**</mark>
 
 * 多次连接导致服务器指标中的标签重复问题
 
