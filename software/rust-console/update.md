@@ -10,6 +10,18 @@ description: Rust Console Update
 
 ## 更新记录
 
+### v2.1.0.428 (2025-04-28)
+
+<mark style="color:blue;">**`[更新]`**</mark>
+
+* 托盘功能 (默认开启可到设置中关闭)
+* 部分功能的状态通知功能
+* 图片可右键另存为图片文件
+
+<mark style="color:green;">**`[安全]`**</mark>
+
+* SHA256: 307751749b02821628e0f9b66161de098fe5d36d5cc63d95adfb2b3af762ee18
+
 ### v2.0.2.424 (2025-04-24)
 
 <mark style="color:red;">**`[修复]`**</mark>
