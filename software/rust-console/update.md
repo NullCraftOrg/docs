@@ -10,6 +10,26 @@ description: Rust Console Update
 
 ## 更新记录
 
+### v2.2.0.508 (2025-05-08)
+
+<mark style="color:blue;">**`[更新]`**</mark>
+
+* \[管理控制台] 全部日志支持颜色高亮不同级别的日志
+* \[管理控制台] 聊天日志模块可根据玩家或消息内容搜索记录
+* \[管理控制台] 玩家日志模块全面重写支持根据条件查询记录
+
+<mark style="color:orange;">**`[优化]`**</mark>
+
+* 快速连接管理图标更换为更为贴切的样式
+
+<mark style="color:red;">**`[修复]`**</mark>
+
+* 部分控件载入的图片可能不按照设计工作问题
+
+<mark style="color:green;">**`[安全]`**</mark>
+
+* SHA256: 4fe8c84bfb471ca693b6977346dc4638862d32ac124fbdc01fe4ef2ae92792e6
+
 ### v2.1.1.505 (2025-05-05)
 
 <mark style="color:blue;">**`[更新]`**</mark>
