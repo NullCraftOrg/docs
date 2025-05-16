@@ -53,6 +53,8 @@
 
 ## 软件 <a href="#software" id="software"></a>
 
+* [瞄这!](software/cross-here/README.md)
+  * [更新日志](software/cross-here/update.md)
 * [像素工厂开服器](software/mindustry-server/README.md)
   * [像素工厂开服教程](https://docs.nullcraft.org/tutorial/mindustry-server)
   * [更新日志](software/mindustry-server/update.md)
