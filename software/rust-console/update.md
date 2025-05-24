@@ -10,6 +10,21 @@ description: Rust Console Update
 
 ## 更新记录
 
+### v2.2.1.524 (2025-05-24)
+
+<mark style="color:blue;">**`[更新]`**</mark>
+
+* 首页近期新闻
+
+<mark style="color:red;">**`[修复]`**</mark>
+
+* 服务器无标签时读取导致程序崩溃问题
+* 玩家加入事件的多钟状态判断
+
+<mark style="color:green;">**`[安全]`**</mark>
+
+* SHA256: 11407585ea603d0729c45ba73dde67debbcbc32a2dd8b440bea0f7a21984f379
+
 ### v2.2.0.508 (2025-05-08)
 
 <mark style="color:blue;">**`[更新]`**</mark>
