@@ -10,6 +10,26 @@ description: 2n2n Update
 
 ## 更新记录
 
+### 客户端:v3.1.3.609 (2025-06-09)
+
+<mark style="color:blue;">**`[客户端:更新]`**</mark>
+
+* 右键托盘图标时弹出快捷菜单
+
+<mark style="color:green;">**`[客户端:安全]`**</mark>
+
+* SHA256: 39493b6f8aea11f288a10597e04990840344f7971a7aed48c00c235e371b2bd0
+
+### 超级节点:v3.1.2.609 (2025-06-09)
+
+<mark style="color:blue;">**`[超级节点:更新]`**</mark>
+
+* 最小化时进入托盘功能
+
+<mark style="color:green;">**`[超级节点:安全]`**</mark>
+
+* SHA256: de291ac24e70615c858d2320aff7d2109d7b383279542773417c9c039e4f79a9
+
 ### 客户端:v3.1.2.320 (2025-03-20)
 
 <mark style="color:orange;">**`[客户端:修复]`**</mark>
