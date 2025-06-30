@@ -10,6 +10,25 @@ description: Minecraft Bedrock Server Update
 
 ## 更新记录
 
+### v1.1.0.630 (2025-06-30)
+
+<mark style="color:blue;">**`[更新]`**</mark>
+
+* 全局异常捕捉异常提示
+
+<mark style="color:orange;">**`[优化]`**</mark>
+
+* 部分日志增加颜色处理
+* \[服务器配置] 移除一些不需要的项
+
+<mark style="color:red;">**`[修复]`**</mark>
+
+* 多国语言如中文汉字等字符正确的向服务端投递
+
+<mark style="color:green;">**`[安全]`**</mark>
+
+* SHA256: 5fe6c71c1dee0869ea3ce00eb6e1834052e51f5768a6007a6d93a86f5e5c1bae
+
 {% hint style="info" %}
 **提示**
 
