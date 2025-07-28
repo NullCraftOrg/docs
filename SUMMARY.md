@@ -50,9 +50,12 @@
   * [for Rust](tutorial/install-modloader/for-rust.md)
 * [🎮 Steam 游戏服务器帐户管理](tutorial/steam-game-server.md)
 * [像素工厂(Mindustry)开服教程](tutorial/mindustry-server.md)
+* [🧟 僵尸毁灭工程开服教程](tutorial/project-zomboid-server.md)
 
 ## 软件 <a href="#software" id="software"></a>
 
+* [僵尸毁灭工程开服器](software/project-zomboid-server/README.md)
+  * [更新日志](software/project-zomboid-server/update.md)
 * [瞄这!](software/cross-here/README.md)
   * [更新日志](software/cross-here/update.md)
 * [像素工厂开服器](software/mindustry-server/README.md)
