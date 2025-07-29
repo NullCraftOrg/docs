@@ -44,3 +44,8 @@ Trace.WriteLine(NullCraftSoftwareList.Items.Conut());
 
 <figure><img src="../../.gitbook/assets/project-zomboid-server_settings.png" alt=""><figcaption><p>灵工艺僵尸毁灭工程开服器 | 本体设置</p></figcaption></figure>
 
+## 特别鸣谢
+
+感谢群友："腾讯网" 特别赞助游戏支持开发！
+
+<div align="left"><figure><img src="../../.gitbook/assets/QQ20250728-213239.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
