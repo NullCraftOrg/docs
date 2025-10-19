@@ -41,10 +41,6 @@ description: Donate made us even stronger
 
 <figure><img src="../.gitbook/assets/AllPay.png" alt=""><figcaption><p>微信 | 支付宝 | QQ<br>统一收款名称：快辰</p></figcaption></figure>
 
-### 通过第三方平台捐助
-
-{% embed url="https://afdian.net/a/fastchen" %}
-
 ### 通过活动进行支持
 
 <div align="left"><figure><img src="../.gitbook/assets/Free_HongBao_AliPay.png" alt="" width="254"><figcaption></figcaption></figure></div>
@@ -59,7 +55,9 @@ description: Donate made us even stronger
 
 | 日期(2025)   | 名称    | 金额(¥) | 捐助者留言 | 我的回复    |
 | ---------- | ----- | ----- | ----- | ------- |
-| 2025-10-09 | T\*n  | 6     |       | 感谢连续支持！ |
+| 2025-10-18 | T\*n  | 12    |       | 感谢连续支持！ |
+| 2025-10-12 | T\*n  | 12    |       |         |
+| 2025-10-09 | T\*n  | 6     |       |         |
 | 2025-10-08 | T\*n  | 12    |       |         |
 | 2025-10-07 | T\*n  | 17.99 |       |         |
 | 2025-08-12 | \*前   | 50    |       |         |
