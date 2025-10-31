@@ -47,4 +47,4 @@ Console.WriteLine(NullCraftSoftwareList.Items.Conut());
 
 ### 软件图片
 
-<figure><img src="../../.gitbook/assets/hash_1.png" alt=""><figcaption><p>哈希 - 主界面 (查看文件状态)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/hash_main.jpg" alt=""><figcaption><p>哈希 - 主界面 (查看文件状态)</p></figcaption></figure>
