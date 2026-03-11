@@ -56,6 +56,8 @@
 
 ## 软件 <a href="#software" id="software"></a>
 
+* [起源开服器](software/source-server/README.md)
+  * [更新日志](software/source-server/update.md)
 * [僵尸毁灭工程开服器](software/project-zomboid-server/README.md)
   * [更新日志](software/project-zomboid-server/update.md)
 * [瞄这!](software/cross-here/README.md)
