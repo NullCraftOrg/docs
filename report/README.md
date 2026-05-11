@@ -10,7 +10,7 @@ description: Report for Year
 
 **21世纪20年代**
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>😴 <strong>2025</strong></td><td>平凡。</td><td></td></tr><tr><td><strong>☺️ 2024</strong></td><td>还不错。</td><td><a href="2024.md">2024.md</a></td></tr><tr><td><strong>😐 2023</strong></td><td>一般。</td><td><a href="2023.md">2023.md</a></td></tr><tr><td><strong>2022</strong></td><td>空缺</td><td></td></tr><tr><td><strong>😫 2021</strong></td><td>很差。</td><td><a href="2021.md">2021.md</a></td></tr><tr><td><strong>😷 2020</strong></td><td>口罩。</td><td><a href="2020.md">2020.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>😴 <strong>2025</strong></td><td>平凡。</td><td><a href="2025.md">2025.md</a></td></tr><tr><td><strong>☺️ 2024</strong></td><td>还不错。</td><td><a href="2024.md">2024.md</a></td></tr><tr><td><strong>😐 2023</strong></td><td>一般。</td><td><a href="2023.md">2023.md</a></td></tr><tr><td><strong>2022</strong></td><td>空缺</td><td></td></tr><tr><td><strong>😫 2021</strong></td><td>很差。</td><td><a href="2021.md">2021.md</a></td></tr><tr><td><strong>😷 2020</strong></td><td>口罩。</td><td><a href="2020.md">2020.md</a></td></tr></tbody></table>
 
 **21世纪10年代**
 
