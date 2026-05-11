@@ -20,7 +20,7 @@
   * [🐑 2015年捐助列表](donate/2015.md)
   * [🐴 2014年捐助列表](donate/2014.md)
 * [📃 年度报告](report/README.md)
-  * [😟 2025](report/2025.md)
+  * [😴 2025](report/2025.md)
   * [☺️ 2024](report/2024.md)
   * [😐 2023](report/2023.md)
   * [😫 2021](report/2021.md)
